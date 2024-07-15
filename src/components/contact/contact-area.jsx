@@ -41,7 +41,7 @@ const ContactArea = () => {
                       </span>
                     </div>
                     <h3 className="tp-contact-item-title">
-                      <a href="tel:(855) 549 0288">(855) 549 0288</a>
+                      <a href="tel:+12818823471">+12818823471</a>
                     </h3>
                   </div>
                   <div className="tp-contact-location-wrapper d-flex">

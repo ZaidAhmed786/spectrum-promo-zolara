@@ -91,10 +91,9 @@ const HeaderOne = () => {
                       <a
                         className="tp-btn"
                         style={{ padding: "21px 16px" }}
-                        href="tel:(855) 549 0288"
+                        href="tel:+12818823471"
                       >
-                        (855) 549 0288 <br /> 9 am - 6 pm Eastern Time, Mon -
-                        Sat
+                        +12818823471 <br /> 9 am - 6 pm Eastern Time, Mon - Sat
                       </a>
                     </div>
                   </div>

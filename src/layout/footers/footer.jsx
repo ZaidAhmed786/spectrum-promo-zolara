@@ -18,7 +18,7 @@ const footer_content = {
   ),
   mail: "sales@spectrumcabletvservices.com",
   contact_text: "Call for Consultation!",
-  phone: "(855) 549 0288",
+  phone: "+12818823471",
   info: <>Spectrum Promo LLC</>,
   map: "",
   address: (
@@ -33,7 +33,7 @@ const footer_content = {
       {" "}
       Write us at : sales@spectrumcabletvservices.com
       <br />
-      Call us at : (855) 549 0288
+      Call us at : +12818823471
     </>
   ),
 
@@ -94,7 +94,7 @@ const Footer = () => {
                       <div className="tp-footer-top-right-content">
                         <p>{contact_text}</p>
 
-                        <a href="tel:(855) 549 0288">(855) 549 0288</a>
+                        <a href="tel:+12818823471">+12818823471</a>
                       </div>
                     </div>
                   </div>
