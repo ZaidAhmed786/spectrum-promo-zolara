@@ -29,8 +29,8 @@ const ContactArea = () => {
                       </span>
                     </div>
                     <h3 className="tp-contact-item-title">
-                      <a href="mailto:sales@spectrumcabletvservices.com">
-                        sales@spectrumcabletvservices.com
+                      <a href="mailto:sales@spectram promocabletvservices.com">
+                        sales@spectram promocabletvservices.com
                       </a>
                     </h3>
                   </div>
@@ -41,7 +41,7 @@ const ContactArea = () => {
                       </span>
                     </div>
                     <h3 className="tp-contact-item-title">
-                      <a href="tel:+12818823471">+12818823471</a>
+                      <a href="tel:+12818823471">+1 (281) 882-3471</a>
                     </h3>
                   </div>
                   <div className="tp-contact-location-wrapper d-flex">
@@ -50,7 +50,7 @@ const ContactArea = () => {
                         Office Location
                         <i className="fa-regular fa-arrow-down"></i>
                       </h3>
-                      <p>Spectrum Promo LLC</p>
+                      <p>Spectram Promo LLC</p>
                       <p> 4-08 Bergen Ave, Fair Lawn, NJ 07410</p>
                     </div>
                   </div>

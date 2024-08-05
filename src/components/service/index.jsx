@@ -23,7 +23,7 @@ const Sevice = () => {
               marginBottom: "28px",
             }}
           >
-            Step into a universe of unparalleled viewing pleasure with Spectrum
+            Step into a universe of unparalleled viewing pleasure with spectram promo
             Promo LLC Cable TV Packages. Our meticulously crafted offerings
             redefine television, blending superior quality, bespoke
             customization, and a rich tapestry of over 290+ channels. Here’s why
@@ -56,7 +56,7 @@ const Sevice = () => {
               marginBottom: "28px",
             }}
           >
-            Spectrum Promo LLC seamlessly combines satellite and internet
+            Spectram Promo LLC seamlessly combines satellite and internet
             streaming technologies. Expect crystal-clear imagery and sound,
             ensuring every moment on screen is captivating.
           </p>

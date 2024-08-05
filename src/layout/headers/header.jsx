@@ -63,12 +63,7 @@ const HeaderOne = () => {
                     </div>
                     <div className="tp-header-logo">
                       <Link href="/">
-                        <Image
-                          src={Logo}
-                          alt="theme-pure"
-                          width={150}
-                          height={80}
-                        />
+                       <p style={{fontSize: "25px", fontWeight: "900", width: "200px"}}>Spectram Promo</p>
                       </Link>
                     </div>
                   </div>
@@ -93,7 +88,7 @@ const HeaderOne = () => {
                         style={{ padding: "21px 16px" }}
                         href="tel:+12818823471"
                       >
-                        +12818823471 <br /> 9 am - 6 pm Eastern Time, Mon - Sat
+                        +1 (281) 882-3471 <br /> 9 am - 6 pm Eastern Time, Mon - Sat
                       </a>
                     </div>
                   </div>

@@ -34,7 +34,7 @@ const index = () => {
             <AngleArrow />
           </span>
           <p className="tp-section-title">
-            Spectrum Promo LLC, we take your privacy seriously. This Privacy
+            Spectram Promo LLC, we take your privacy seriously. This Privacy
             Policy outlines how we collect, use, disclose, and protect your
             personal information when you visit our website or use our Internet,
             cable, and phone services. By accessing or using our services, you

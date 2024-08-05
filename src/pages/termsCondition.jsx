@@ -29,7 +29,7 @@ const index = () => {
           without our explicit consent. Material on this website may not be
           republished online or offline without our permission. The copyright
           and all intellectual property rights of the material on this site are
-          owned by Spectrum Promo LLC and may not be reproduced without our
+          owned by Spectram Promo LLC and may not be reproduced without our
           prior consent.
         </p>
         <h1>Visitor Conduct</h1>
@@ -94,13 +94,13 @@ const index = () => {
             marginBottom: "28px",
           }}
         >
-          In order to provide additional information or services, Spectrum Promo
+          In order to provide additional information or services, spectram promo Promo
           LLC LLC may include links to external websites. Clicking on such a
           link will navigate you away from the Digital Marketing Agencies site.
           The inclusion of links does not necessarily imply a recommendation,
           nor does it in any way endorse the views expressed within them. Other
           site’s Terms and Conditions may differ from our own. When clicking off
-          the Spectrum Promo LLC site, we strongly encourage you to visit the
+          the Spectram Promo LLC site, we strongly encourage you to visit the
           other site’s Terms and Conditions to ensure it meets the standards of
           your own personal preferences.
         </p>
@@ -114,10 +114,10 @@ const index = () => {
             marginBottom: "28px",
           }}
         >
-          In no event will Spectrum Promo LLC be held liable for any loss or
+          In no event will Spectram Promo LLC be held liable for any loss or
           damage of information including but not limited to indirect or
           consequential loss or damage, loss or damage of data, or profits
-          arising out of or in connection with the use of this website. Spectrum
+          arising out of or in connection with the use of this website. spectram promo
           Promo LLC may not be held liable or responsible in any way for loss or
           damage that may result to you or a third party as a result of your use
           of our website.

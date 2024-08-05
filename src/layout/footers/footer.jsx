@@ -13,13 +13,13 @@ const footer_content = {
   contact_us: (
     <>
       {" "}
-      Write us at : <span>sales@spectrumcabletvservices.com</span>
+      Write us at : <span>sales@spectram promocabletvservices.com</span>
     </>
   ),
-  mail: "sales@spectrumcabletvservices.com",
+  mail: "sales@spectram promocabletvservices.com",
   contact_text: "Call for Consultation!",
   phone: "+12818823471",
-  info: <>Spectrum Promo LLC</>,
+  info: <>Spectram Promo LLC</>,
   map: "",
   address: (
     <>
@@ -27,11 +27,11 @@ const footer_content = {
       <br />
     </>
   ),
-  mail_2: "sales@spectrumcabletvservices.com",
+  mail_2: "sales@spectram promocabletvservices.com",
   mail_phone: (
     <>
       {" "}
-      Write us at : sales@spectrumcabletvservices.com
+      Write us at : sales@spectram promocabletvservices.com
       <br />
       Call us at : +12818823471
     </>
@@ -81,7 +81,7 @@ const Footer = () => {
                 <div className="row align-items-center">
                   <div className="col-lg-6">
                     <div className="tp-footer-top-contact">
-                      <a href="mailto:sales@spectrumcabletvservices.com">
+                      <a href="mailto:sales@spectram promocabletvservices.com">
                         {contact_us}
                       </a>
                     </div>
@@ -94,7 +94,7 @@ const Footer = () => {
                       <div className="tp-footer-top-right-content">
                         <p>{contact_text}</p>
 
-                        <a href="tel:+12818823471">+12818823471</a>
+                        <a href="tel:+12818823471">+1 (281) 882-3471</a>
                       </div>
                     </div>
                   </div>
@@ -109,13 +109,9 @@ const Footer = () => {
                 <div className="tp-footer-widget tp-footer-col-1">
                   <div className="tp-footer-logo">
                     <a href="/">
-                      {" "}
-                      <Image
-                        src={footer_logo}
-                        alt="theme-pure"
-                        width={150}
-                        height={80}
-                      />
+                    <Link href="/">
+                       <p style={{fontSize: "25px", fontWeight: "700", width: "200px", color: "white"}}>Spectram Promo</p>
+                      </Link>
                     </a>
                   </div>
                   <div className="tp-footer-widget-content">
