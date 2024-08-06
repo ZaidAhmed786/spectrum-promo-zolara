@@ -63,7 +63,7 @@ const HeaderOne = () => {
                     </div>
                     <div className="tp-header-logo">
                       <Link href="/">
-                       <p style={{fontSize: "25px", fontWeight: "900", width: "200px"}}>Spectram Promo</p>
+                       <p style={{fontSize: "25px", fontWeight: "900", width: "200px", margin: "auto", minHeight:"110px", display: "flex", alignItems:"center", }}>Spectram Promo</p>
                       </Link>
                     </div>
                   </div>

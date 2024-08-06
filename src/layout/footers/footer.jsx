@@ -13,12 +13,12 @@ const footer_content = {
   contact_us: (
     <>
       {" "}
-      Write us at : <span>sales@spectram promocabletvservices.com</span>
+      Write us at : <span>sales@spectrampromos.com</span>
     </>
   ),
-  mail: "sales@spectram promocabletvservices.com",
+  mail: "sales@spectrampromos.com",
   contact_text: "Call for Consultation!",
-  phone: "+12818823471",
+  phone: "+1 (281) 882-3471",
   info: <>Spectram Promo LLC</>,
   map: "",
   address: (
@@ -27,13 +27,13 @@ const footer_content = {
       <br />
     </>
   ),
-  mail_2: "sales@spectram promocabletvservices.com",
+  mail_2: "sales@spectrampromos.com",
   mail_phone: (
     <>
       {" "}
-      Write us at : sales@spectram promocabletvservices.com
+      Write us at : sales@spectrampromos.com
       <br />
-      Call us at : +12818823471
+      Call us at : +1 (281) 882-3471
     </>
   ),
 
@@ -47,16 +47,13 @@ const footer_content = {
   ],
 };
 const {
-  contact_us,
-  mail,
-  contact_text,
-  phone,
+  contact_us, 
+  contact_text, 
   info,
   map,
   address,
   mail_2,
-  mail_phone,
-  service_links,
+  mail_phone, 
 } = footer_content;
 
 const Footer = () => {
@@ -81,7 +78,7 @@ const Footer = () => {
                 <div className="row align-items-center">
                   <div className="col-lg-6">
                     <div className="tp-footer-top-contact">
-                      <a href="mailto:sales@spectram promocabletvservices.com">
+                      <a href="mailto:sales@spectrampromos.com">
                         {contact_us}
                       </a>
                     </div>
@@ -94,7 +91,7 @@ const Footer = () => {
                       <div className="tp-footer-top-right-content">
                         <p>{contact_text}</p>
 
-                        <a href="tel:+12818823471">+1 (281) 882-3471</a>
+                        <a href="tel:+1 (281) 882-3471">+1 (281) 882-3471</a>
                       </div>
                     </div>
                   </div>
@@ -181,12 +178,12 @@ const Footer = () => {
               </div>
               <div className="col-md-12 col-lg-6">
                 <div className="tp-footer-copyright-inner text-lg-end">
-                  <Link className="ml-50 mr-50 " href="/refundPolicy">
+                  <Link className="ml-50 mr-50 " href="/refund-policy">
                     {" "}
                     Refund Policy
                   </Link>
-                  <Link href="/termsCondition">Terms and Conditions</Link>
-                  <Link className="ml-50" href="/privacypolicy">
+                  <Link href="/terms-condition">Terms and Conditions</Link>
+                  <Link className="ml-50" href="/privacy-policy">
                     {" "}
                     Privacy Policy
                   </Link>

@@ -6,7 +6,7 @@ import HomeThree from '../components/homes/home-3';
 const index = () => {
     return (
         <Wrapper>
-            <SEO pageTitle="Technix" /> 
+            <SEO pageTitle="Spectram Promo LLC" /> 
             <HomeThree />           
         </Wrapper>
     );

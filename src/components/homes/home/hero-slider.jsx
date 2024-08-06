@@ -171,7 +171,7 @@ const HeroSlider = () => {
             </div>
             <p>
               See plans. speeds, price & rating of your local providers in one
-              go! Call Us <span>+12818823471 </span>
+              go! Call Us <span>+1 (281) 882-3471 </span>
             </p>
             <div className="tp-hero-service-quote">
               <Image src={service_quote} alt="theme-pure" />

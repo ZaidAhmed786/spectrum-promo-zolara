@@ -83,7 +83,7 @@ const FeatureArea = ({about}) => {
                                 </div>
                                 <div className="tp-feature-item-content">
                                     <h3 className="feature-title">
-                                        <Link href="/aboutus">{item.title}</Link>
+                                        <Link href="/about-us">{item.title}</Link>
                                     <span> 
                                         <AngleArrow />                                
                                     </span>
@@ -93,7 +93,7 @@ const FeatureArea = ({about}) => {
                             </div>
                         </div>
                         <div className="tp-feature-item-btn">
-                            <Link href="/aboutus"><i className="fa-regular fa-arrow-right"></i></Link>
+                            <Link href="/about-us"><i className="fa-regular fa-arrow-right"></i></Link>
                         </div>
                     </div>
                 </div> 

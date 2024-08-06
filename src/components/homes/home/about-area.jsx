@@ -174,7 +174,7 @@ const AboutArea = () => {
                           <p>{item.description}</p>
                           <p style={{ color: "#020626" }}> <b>{item.price}</b> </p>
                           <div className="tp-about-item-btn">
-                            <Link href="/aboutus">
+                            <Link href="/about-us">
                               <i className="fa-regular fa-arrow-right"></i>
                             </Link>
                           </div>

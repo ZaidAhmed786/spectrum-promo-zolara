@@ -1,9 +1,9 @@
 #Developed by
 ## ThemePure
-Technix React Next js Template 
+Spectram Promo LLC
 
 ```bash
-technix next js
+Spectram Promo LLC
 
 
 ```

@@ -19,7 +19,7 @@ const menu_data = [
     link: "/",
     active: "",
     sub_menus: [ 
-      { link: "/cabletv", title: "Cable TV" },
+      { link: "/cable-tv", title: "Cable TV" },
       { link: "/internet", title: "Internet" }, 
     ],
   },
@@ -29,7 +29,7 @@ const menu_data = [
     mega_menu: false,
     has_dropdown: false,
     title: "About Us",
-    link: "/aboutus",
+    link: "/about-us",
     active: "",
   },
   {

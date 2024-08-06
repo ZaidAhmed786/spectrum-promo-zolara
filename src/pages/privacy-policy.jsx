@@ -3,8 +3,7 @@ import Wrapper from "../layout/wrapper";
 import SEO from "../common/seo";
 import HeaderOne from "@/src/layout/headers/header";
 import Breadcrumb from "@/src/common/breadcrumb/breadcrumb";
-import FooterThree from "../layout/footers/footer";
-import ServiceArea from "../components/homes/home/service-area";
+import FooterThree from "../layout/footers/footer"; 
 import LineArrowTwo from "../svg/line-arrow-2";
 import AngleArrow from "../svg/angle-arrow";
 import GreenRightArrow from "../svg/green-right-arrow";
@@ -13,9 +12,9 @@ import Link from "next/link";
 const index = () => {
   return (
     <Wrapper>
-      <SEO pageTitle={"privacypolicy"} />
+      <SEO pageTitle={"Privacy Policy"} />
       <HeaderOne />
-      <Breadcrumb top_title="Privacy Policy" page_title="privacypolicy" />
+      <Breadcrumb top_title="Privacy Policy" page_title="privacy-policy" />
       <div
         style={{
           width: "100vw",

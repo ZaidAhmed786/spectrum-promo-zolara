@@ -8,7 +8,7 @@ import FooterThree from "../layout/footers/footer";
 const index = () => {
   return (
     <Wrapper>
-      <SEO pageTitle={"internet"} />
+      <SEO pageTitle={"Internet"} />
       <HeaderOne />
       <Breadcrumb top_title="Internet" page_title="internet" />
       <div style={{ width: "70%", margin: "20vh auto", textAlign: "left" }}>

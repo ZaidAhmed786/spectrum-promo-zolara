@@ -46,7 +46,7 @@ const copy_right_text = {
   copy_right: (
     <>
       {" "}
-      Copyright <span> © {new Date().getFullYear()}</span> Spectram Promo LLC |
+      Copyright <span> © {new Date().getFullYear()} |</span> Spectram Promo LLC |
       All Rights Reserved{" "}
     </>
   ),
