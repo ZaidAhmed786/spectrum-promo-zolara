@@ -81,7 +81,7 @@ const HeaderTwo = () => {
                                        </div>
                                     </div>
                                     <div className="tp-header-2-btn">
-                                       <Link href="/contact">Get an Quatre <i className="fa-regular fa-angle-right"></i></Link>
+                                       <Link href="/contact-us">Get an Quatre <i className="fa-regular fa-angle-right"></i></Link>
                                     </div>
                                     <div className="tp-header-search search-open-btn d-none d-xxl-block"  onClick={() => setSearchOpen(true)}>
                                        <button> <i className="fa-regular fa-magnifying-glass"></i></button>

@@ -28,7 +28,7 @@ const footer_two_content = {
         {title: "services", link: "/service"},
         {title: "Resources", link: "#"},
         {title: "Shop", link: "#"},
-        {title: "contact", link: "/contact"},
+        {title: "contact", link: "/contact-us"},
     ],
     mobile: "+88 1900 6789 56",
 
