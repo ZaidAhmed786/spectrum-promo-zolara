@@ -231,7 +231,7 @@ const ServiceArea = () => {
                     <div className="tp-fun-fact-btn">
                       <Link
                         className="tp-btn"
-                        href="mailto:sales@spectrampromos.com"
+                        href="mailto:sales@spectrumcabletvservices.com"
                       >
                         Tell us How Can We Help
                       </Link>

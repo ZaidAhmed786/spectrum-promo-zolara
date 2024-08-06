@@ -29,8 +29,8 @@ const ContactArea = () => {
                       </span>
                     </div>
                     <h3 className="tp-contact-item-title">
-                      <a href="mailto:sales@spectrampromos.com">
-                      sales@spectrampromos.com
+                      <a href="mailto:sales@spectrumcabletvservices.com">
+                      sales@spectrumcabletvservices.com
                       </a>
                     </h3>
                   </div>

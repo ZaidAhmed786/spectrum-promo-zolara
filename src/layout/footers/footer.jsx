@@ -13,10 +13,10 @@ const footer_content = {
   contact_us: (
     <>
       {" "}
-      Write us at : <span>sales@spectrampromos.com</span>
+      Write us at : <span>sales@spectrumcabletvservices.com</span>
     </>
   ),
-  mail: "sales@spectrampromos.com",
+  mail: "sales@spectrumcabletvservices.com",
   contact_text: "Call for Consultation!",
   phone: "+1 (281) 882-3471",
   info: <>Spectram Promo LLC</>,
@@ -27,11 +27,11 @@ const footer_content = {
       <br />
     </>
   ),
-  mail_2: "sales@spectrampromos.com",
+  mail_2: "sales@spectrumcabletvservices.com",
   mail_phone: (
     <>
       {" "}
-      Write us at : sales@spectrampromos.com
+      Write us at : sales@spectrumcabletvservices.com
       <br />
       Call us at : +1 (281) 882-3471
     </>
@@ -78,7 +78,7 @@ const Footer = () => {
                 <div className="row align-items-center">
                   <div className="col-lg-6">
                     <div className="tp-footer-top-contact">
-                      <a href="mailto:sales@spectrampromos.com">
+                      <a href="mailto:sales@spectrumcabletvservices.com">
                         {contact_us}
                       </a>
                     </div>
